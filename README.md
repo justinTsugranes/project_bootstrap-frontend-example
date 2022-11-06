@@ -1,5 +1,9 @@
 # Frontend Bootcamp Bootstrap Example
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3dfea9c0-6f89-459e-a8e5-c028e08c4c45/deploy-status)](https://app.netlify.com/sites/classy-stardust-8ba15c/deploys)
+
+[Live Demo](https://justin-tsugranes-bootstrap-example01.netlify.app/)
+
 This was one of the projects from the [Traversy Media YouTube Page](https://www.youtube.com/watch?v=4sosXZsdy-s)
 
 I completed the project because I wanted to learn more about Bootstrap 5.
