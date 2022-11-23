@@ -1,12 +1,17 @@
+.App {
+  text-align: center;
+}
+
 body::before {
   display: block;
   content: '';
   height: 60px;
 }
 
-#map {
+.map-container {
+  height: 400px;
   width: 400px;
-  height: 300px;
+
   border-radius: 10px;
 }
 
