@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from 'react'
+import { useRef, useEffect, useState } from 'react'
 import { Container, Row, Col, ListGroup, ListGroupItem } from 'react-bootstrap'
 import mapboxgl from '!mapbox-gl' // eslint-disable-line import/no-webpack-loader-syntax
 
@@ -32,33 +32,33 @@ const Contact = () => {
   })
 
   return (
-    <Container className='p-5'>
-      <Row className='row g-4'>
-        <Col className='col-md'>
-          <h2 className='text-center mb-4'>Contact Info</h2>
-          <ListGroup className='list-group-flush lead'>
+    <Container className="p-5">
+      <Row className="row g-4">
+        <Col className="col-md">
+          <h2 className="text-center mb-4">Contact Info</h2>
+          <ListGroup className="list-group-flush lead">
             <ListGroupItem>
-              <span className='fw-bold'>Main Location:</span> 2400 Laurel Canyon
+              <span className="fw-bold">Main Location:</span> 2400 Laurel Canyon
               Blvd, Los Angeles, CA
             </ListGroupItem>
             <ListGroupItem>
-              <span className='fw-bold'>Enrollment Phone:</span> (555) 555-5555
+              <span className="fw-bold">Enrollment Phone:</span> (555) 555-5555
             </ListGroupItem>
             <ListGroupItem>
-              <span className='fw-bold'>Student Phone:</span> (333) 333-3333
+              <span className="fw-bold">Student Phone:</span> (333) 333-3333
             </ListGroupItem>
             <ListGroupItem>
-              <span className='fw-bold'>Enrollment Email:</span> (555)
+              <span className="fw-bold">Enrollment Email:</span> (555)
               enroll@frontend.example
             </ListGroupItem>
             <ListGroupItem>
-              <span className='fw-bold'>Student Email:</span>
+              <span className="fw-bold">Student Email:</span>
               student@frontend.example
             </ListGroupItem>
           </ListGroup>
         </Col>
-        <Col className='col-md'>
-          <div ref={mapContainer} className='map-container' />
+        <Col className="col-md">
+          <div ref={mapContainer} className="map-container" />
         </Col>
       </Row>
     </Container>
