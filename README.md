@@ -110,7 +110,7 @@ _I'd love to hear any feedback or just thoughts. Feel free to reach out at my co
   <!-- [![fontawesome]][fontawesome-url] -->
   <!-- [![  <!-- [formik] -->
 
-#### Backend
+<!-- #### Backend -->
 
 <!-- - **API** -->
   <!-- [![node]][node-url] -->
@@ -141,7 +141,7 @@ _I'd love to hear any feedback or just thoughts. Feel free to reach out at my co
   <!-- [![docker]][docker-url] -->
   <!-- [![kubernetes]][kubernetes-url] -->
 
-<!-- #### Deployment / Hosting -->
+#### Deployment / Hosting
 
 <!-- [![heroku]][heroku-url] -->
 
@@ -149,7 +149,7 @@ _I'd love to hear any feedback or just thoughts. Feel free to reach out at my co
 
 <!-- [![vercel]][vercel-url] -->
 
-#### Security / Auth / Encryption
+<!-- #### Security / Auth / Encryption -->
 
 <!-- [jwt] -->
 <!-- [google-auth] -->
@@ -157,16 +157,16 @@ _I'd love to hear any feedback or just thoughts. Feel free to reach out at my co
 <!-- [dotenv](https://www.npmjs.com/package/dotenv) -->
 <!-- [react-dotenv](https://www.npmjs.com/package/react-dotenv) -->
 
-#### Testing
+<!-- #### Testing -->
 
 <!-- [![cypress]][cypress-url] -->
 <!-- [![jest]][jest-url] -->
 
-#### Proxy
+<!-- #### Proxy -->
 
 <!-- [![nginx]][nginx-url] -->
 
-#### Misc Packages
+<!-- #### Misc Packages -->
 
 <!-- [colors](https://www.npmjs.com/package/colors) -->
 <!-- [concurrently](https://www.npmjs.com/package/concurrently) -->
@@ -313,8 +313,6 @@ _For more examples, please refer to the [Documentation][repo-url]_ -->
   - [ ] Nested Feature
 
 See the [open issues][issues-url] for a full list of proposed features (and known issues). -->
-
-<!-- TODO: UPDATE LICENSE IF NECESSARY -->
 
 ## License
 
