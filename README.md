@@ -46,6 +46,8 @@ Landing page for a Frontend Bootcamp. Built using React-Bootstrap
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
+This Frontend Bootcamp project is a responsive landing page that was created to showcase an example of a bootcamp program focused on frontend development. The page features a clean, modern design, with various sections detailing the curriculum and instructors. The page makes use of Bootstrap and React to provide a seamless user experience, with MapBox GL used for the contact section, unDraw for the graphics, and FontAwesome and LoremPicsum for the avatars.
+
 This project started out as a Bootstrap tutorial from the [Traversy Media YouTube Page](https://www.youtube.com/watch?v=4sosXZsdy-s). After completing the project, I decided to turn the entire thing into a React app, using React-Bootstrap.
 
 I initially completed the project because I wanted to learn more about Bootstrap 5. Bootstrap isn't hard to wrap your head around, so I went a little more in depth and rendered everything through React in order to solidify my understanding of both react and bootstrap. React-Bootstrap is great because you write a lot less classes and the code ends up looking a lot cleaner.
